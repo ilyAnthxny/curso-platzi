@@ -1,0 +1,15 @@
+body {
+    background-image: url('fondo.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.name {
+    font-size: 20px;
+    font-weight: bold;
+}
